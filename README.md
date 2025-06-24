@@ -22,17 +22,17 @@
 
 app/
 ├── assets/
-│   ├── images/
-│   │   ├── adaptive-icon.png
-│   │   ├── favicon.png
-│   │   ├── icon.png
-│   │   └── splash-icon.png
+│ ├── images/
+│ │ ├── adaptive-icon.png
+│ │ ├── favicon.png
+│ │ ├── icon.png
+│ │ └── splash-icon.png
 ├── src/
-│   ├── components/
-│   │   ├── Header.tsx
-│   │   └── InfoCard.tsx
-│   ├── screens/
-│   │   └── Dashboard.tsx
+│ ├── components/
+│ │ ├── Header.tsx
+│ │ └── InfoCard.tsx
+│ ├── screens/
+│ │ └── Dashboard.tsx
 ├── App.tsx
 └── package.json
 
