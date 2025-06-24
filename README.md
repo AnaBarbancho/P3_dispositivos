@@ -19,7 +19,7 @@
 ---
 
 ## 📦 Estrutura do Projeto
-
+```
 app/
 ├── assets/
 │ ├── images/
@@ -35,7 +35,7 @@ app/
 │ │ └── Dashboard.tsx
 ├── App.tsx
 └── package.json
-
+```
 ## 🚀 Como Executar
 
 1. Clone o repositório:
